@@ -37,6 +37,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- took sleeping pills
 		- The Silent Spring
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- [[Khingan Mountains]] , 1969
 			-
 		- logseq.order-list-type:: number
