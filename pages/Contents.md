@@ -16,7 +16,7 @@
   ]
   :result-transform (fn [result]
     (map (fn [r]
-      (str "[[" (first r) "]]" ))
+      (str "link " r r ))
       result))
   :view :inline
   }
