@@ -2,7 +2,11 @@
 - [[Plot]]
 - [[Characters]]
 - [[Groups]]
-- {}
+- #+BEGIN_QUERY
+  {
+  }
+  #+END_QUERY
+-
 - query-sort-by:: page
   query-sort-desc:: true
   query-properties:: [:page]
