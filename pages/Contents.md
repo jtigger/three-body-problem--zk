@@ -4,6 +4,8 @@
 - [[Groups]]
 - #+BEGIN_QUERY
   {
+  :title [:b "Groups with links"]
+  :query []
   }
   #+END_QUERY
 -
