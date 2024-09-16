@@ -1,9 +1,7 @@
 # Plot
 id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 	- ## Part 1: Silent Spring
-		- The madness years
-		  logseq.order-list-type:: number
-		  collapsed:: true
+		- ### 1. The madness years
 			- China, [[Tsinghua University]] , 1967
 			- Great Proletarian Cultural Revolution
 				- [[Red Union]] vs. ((66e71a99-70cc-4487-9cf0-b6de3fb6befd))
@@ -35,12 +33,11 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- put on a little bit of lipstick and high heals
 						- a protest to the communists
 					- took sleeping pills
-		- The Silent Spring
-		  logseq.order-list-type:: number
+		- ### 2. The Silent Spring
 		  collapsed:: true
 			- [[Khingan Mountains]] , 1969
 			-
-		- logseq.order-list-type:: number
+		- ### 3. (next chapter)
 			-
 			-
 			-
