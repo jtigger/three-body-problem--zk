@@ -16,7 +16,7 @@
   ]
   :result-transform (fn [result]
     (map (fn [r]
-      (str "- [[" r "]]" ))
+      (str "- [[" (first r) "]]" ))
       result))
   :view :inline
   }
