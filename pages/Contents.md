@@ -6,8 +6,7 @@
   {
   :title [:b "Groups with links"]
   :query [
-    :find (pull ?p [*])
-    :where 
+    :find (pull ?b [*])
   ]
   }
   #+END_QUERY
