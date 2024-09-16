@@ -5,6 +5,7 @@
 - query-sort-by:: page
   query-sort-desc:: true
   query-properties:: [:page]
+  collapsed:: true
   #+BEGIN_QUERY
   {
   :title [:b "Groups"]

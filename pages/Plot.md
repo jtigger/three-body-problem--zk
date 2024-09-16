@@ -3,6 +3,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 	- ## Part 1: Silent Spring
 		- The madness years
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- China, [[Tsinghua University]] , 1967
 			- Great Proletarian Cultural Revolution
 				- [[Red Union]] vs. ((66e71a99-70cc-4487-9cf0-b6de3fb6befd))
