@@ -5,7 +5,10 @@
 - #+BEGIN_QUERY
   {
   :title [:b "Groups with links"]
-  :query [:find :block/*]
+  :query [
+    :find :block/*
+    :where 
+  ]
   }
   #+END_QUERY
 -
