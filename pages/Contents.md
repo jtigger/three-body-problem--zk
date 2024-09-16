@@ -10,6 +10,7 @@
     :where
     (page-property ?block :story-role "group")
   ]
+  :view :bullet
   }
   #+END_QUERY
 -
