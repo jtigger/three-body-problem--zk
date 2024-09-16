@@ -11,7 +11,7 @@
   :title [:b "Groups"]
   :query [:find ?pagename
   :where
-  [?block :block/name ?pagename]
+  [?block :block/original-name ?pagename]
   (page-property ?block :story-role "group")
   ]
   :result-transform (fn [result]
