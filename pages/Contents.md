@@ -29,7 +29,7 @@
     (map (fn [r]
       (list 'link  (str r) (str r) ))
       result))
-  :view :inline
+  :view :bullet
   }
   #+END_QUERY
 - [[Locations]]
