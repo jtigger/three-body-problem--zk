@@ -7,7 +7,7 @@
   :title [:b "Groups with links"]
   :query [
     :find :block/*
-    :where [block/]
+    :where (page-property ?block :story-role "group")
   ]
   }
   #+END_QUERY
