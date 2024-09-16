@@ -16,7 +16,7 @@
   ]
   :result-transform (fn [result]
     (map (fn [r]
-      [('link  (str r) (str r) ))]
+      (list 'link  (str r) (str r) ))
       result))
   :view :inline
   }
