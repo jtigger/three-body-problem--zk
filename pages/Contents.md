@@ -11,7 +11,7 @@
     (page-property ?block :story-role "group")
   ]
   :view (fn [vals]
-    (for [d vals] )
+    (for [d vals] ["result"])
    )
   }
   #+END_QUERY
