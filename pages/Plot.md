@@ -33,7 +33,6 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- took sleeping pills
 		- ### 2. The Silent Spring
 			- [[Khingan Mountains]] , 1969
-			-
 		- ### 3. Red Coast 1
 			-
 	- ## Part 2: Three Body
