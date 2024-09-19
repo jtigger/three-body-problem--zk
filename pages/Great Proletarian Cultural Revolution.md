@@ -1,5 +1,6 @@
 - commonly, "Cultural Revolution"
 - Launched by [[Mao Zedong (毛泽东)]]
+- Based on Marxism
+	- Atheist
 - [[Chinese People's Liberation Army]]
 - https://en.wikipedia.org/wiki/Cultural_Revolution
--
