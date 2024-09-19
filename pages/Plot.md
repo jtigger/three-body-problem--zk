@@ -4,15 +4,14 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 		- ### 1. The madness years
 			- China, [[Tsinghua University]] , 1967
 			- [[Great Proletarian Cultural Revolution]]
-				- feat. [[Red Union]] — student-led
 			- [[Ye Zhetai (叶哲泰)]] was tortured to death at a [[Struggle Session]].
 			  id:: 66e7116b-2ad9-4186-b968-731c4cf09d1f
 				- wearing a heavier-than-usual torture hat (metal rather than bamboo)
 				- being tortured for including [[Einstein's Theory of Relativity]] in his survey class.
 					- allegedly teaching the (potential) existence of God
 						- made way by the fact that Time begins at the Singularity
-					- he clarified (in so many words) that science is agnostic, not atheistic.
-				- The female guards beat him to death with belts.
+					- he clarified (in so many words) that science is agnostic, neither deist nor atheist.
+				- The female [[Red Union]] guards beat him to death with belts.
 				- his wife, ((66e71069-9de1-4291-a1c5-752e8f76abd5)), testified against him
 				  collapsed:: true
 					- Zhetai pointed to Lin's pre-revolutionary prominent family putting her in danger in this revolution
