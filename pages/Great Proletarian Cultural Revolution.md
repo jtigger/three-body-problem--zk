@@ -2,5 +2,8 @@
 - Launched by [[Mao Zedong (毛泽东)]]
 - Based on Marxism
 	- Atheist
+- Propaganda
+	- "Reactionary" (adj.) — any idea that was anti-socialist
+	- "Academic Authority"
 - [[Chinese People's Liberation Army]]
 - https://en.wikipedia.org/wiki/Cultural_Revolution
