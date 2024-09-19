@@ -3,7 +3,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 	- ## Part 1: Silent Spring
 		- ### 1. The madness years
 			- China, [[Tsinghua University]] , 1967
-			- [[Great Proletarian Cultural Revolution]]
+			- beginning of the [[Great Proletarian Cultural Revolution]]
 			- [[Ye Zhetai (叶哲泰)]] was tortured to death at a [[Struggle Session]].
 			  id:: 66e7116b-2ad9-4186-b968-731c4cf09d1f
 				- wearing a heavier-than-usual torture hat (metal rather than bamboo)
@@ -21,11 +21,11 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- she saw her father tortured to death.
 					- she put his pipe in his cold hands
 						- a gift from [[Sha Ruishan (沙瑞山)]]
+			- [[Ye Wenjie (叶文洁)]] went to [[Sha Ruishan (沙瑞山)]]'s home
 			- [[Sha Ruishan (沙瑞山)]]'s has been suffering during the cultural revolution
-			  collapsed:: true
-				- the Red Guards ransacked her home
+				- the [[Red Union]] Guards ransacked her home
 					- and then cleaned up after themselves... sortof
-				- committed suicide
+				- she committed suicide
 					- put on a little bit of lipstick and high heals
 						- a protest to the communists
 					- took sleeping pills
