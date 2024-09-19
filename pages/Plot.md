@@ -23,15 +23,16 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- she put his pipe in his cold hands
 						- a gift from [[Sha Ruishan (沙瑞山)]]
 			- [[Ye Wenjie (叶文洁)]] went to [[Sha Ruishan (沙瑞山)]]'s home, discovering she had committed suicide
-			- [[Sha Ruishan (沙瑞山)]] has been suffering during the cultural revolution
-			  collapsed:: true
 				- the [[Red Union]] Guards ransacked her home
+				  collapsed:: true
 					- and then cleaned up after themselves... sortof
-				- she committed suicide
-					- put on a little bit of lipstick and high heals
-					  collapsed:: true
-						- a protest to the communists
-					- took sleeping pills
+				- [[Sha Ruishan (沙瑞山)]] has been suffering during the cultural revolution
+				  collapsed:: true
+					- she committed suicide
+						- put on a little bit of lipstick and high heals
+						  collapsed:: true
+							- a protest to the communists
+						- took sleeping pills
 		- ### 2. The Silent Spring
 			- [[Khingan Mountains]] , 1969
 		- ### 3. Red Coast 1
@@ -43,7 +44,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 		- ### 6. The Shooter and the Farmer
 		- ### 7. Three Body: [[King Wen of Zhou]] and the Long Night
 		- ### 8. [[Ye Wenjie (叶文洁)]]
-			- [[Wang Miao (汪淼)]] gets out of the V-suit and drives to the address that [[Ding Yi (丁仪)]] gave him: the house of [[Yang Dong (杨冬)]]'s mother
+			- [[Wang Miao (汪淼)]] gets out of the V-suit and drives to the address that [[Ding Yi (丁仪)]] gave him: the house of [[Yang Dong (杨冬)]]'s mother: [[Ye Wenjie (叶文洁)]].
 			-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
