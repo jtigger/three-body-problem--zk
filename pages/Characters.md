@@ -1,6 +1,6 @@
 # In the Story
-	- ## Chang Weisi (常伟思)
-	- ## Colonel Stanton (斯坦顿)
+	- [[Chang Weisi (常伟思)]]
+	- [[Colonel Stanton (斯坦顿)]]
 	- ## Commissar Lei Zhicheng (雷志成)
 	- ## Ding Yi (丁仪)
 	- ## Mike Evans (麦克·伊文斯)
