@@ -24,8 +24,8 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 				- his daughter [[Ye Wenjie (叶文洁)]] was in the crowd
 					- she saw her father tortured to death.
 					- she put his pipe in his cold hands
-						- a gift from ((66e71720-5d83-4eb4-a86f-366b049a1311))
-			- ((66e71720-5d83-4eb4-a86f-366b049a1311))'s has been suffering during the cultural revolution
+						- a gift from [[Sha Ruishan (沙瑞山)]]
+			- [[Sha Ruishan (沙瑞山)]]'s has been suffering during the cultural revolution
 			  collapsed:: true
 				- the Red Guards ransacked her home
 					- and then cleaned up after themselves... sortof
