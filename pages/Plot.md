@@ -40,5 +40,5 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 			- ~ 2010 (present day)
 		- ### 5. A Game of Pool
 		- ### 6. The Shooter and the Farmer
-		- ### 7. Three Body: King Wen of Zhou and the Long Night
-		-
+		- ### 7. Three Body: [[King Wen of Zhou]] and the Long Night
+		- ### 8.

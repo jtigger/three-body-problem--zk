@@ -19,7 +19,8 @@
 	- [[Ye Wenjie (叶文洁)]]
 	  id:: 66e7108d-94b5-441e-b3b1-42d806010683
 	- [[Ye Wenxue (叶文雪)]]
-- #
+- # Characters in the video game
+	- [[King Wen of Zhou]]
 - # Famous Persons
 	- [[Mao Zedong (毛泽东)]]
 	-
