@@ -9,6 +9,6 @@
 	- [[Ye Zhetai (叶哲泰)]] — Father
 	- [[Shao Lin (绍琳)]] — Mother
 	- [[Ye Wenjie (叶文洁)]] — Older daughter
-	- [[Ye Wenxue (叶文雪)]] —
+	- [[Ye Wenxue (叶文雪)]] — Younger daughter
 	-
 	-
