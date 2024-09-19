@@ -50,9 +50,12 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 				- referring to him by a diminutive, almost immediately
 				- giving him ginseng as he left
 			- Wang visits Yang's room
+				- it was ordinary and non-descript; not feminine nor intellectual
 				- there was a picture of Yang and Ye
 				- her birchbark notebook
-					- pages full of
+					- pages full of abstract pictures; seemingly conveying frustration and anger
+				- this is where Yang comm
+				-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
 		-
