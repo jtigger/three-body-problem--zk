@@ -42,7 +42,8 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 		- ### 6. The Shooter and the Farmer
 		- ### 7. Three Body: [[King Wen of Zhou]] and the Long Night
 		- ### 8. [[Ye Wenjie (叶文洁)]]
-			- [[Wang Miao (汪淼)]] gets out of the V suit and drives to the address
+			- [[Wang Miao (汪淼)]] gets out of the V suit and drives to the address that [[Ding Yi (丁仪)]] gave him: the house of [[Yang Dong (杨冬)]]'s mother
+			-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
 		-
