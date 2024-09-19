@@ -26,7 +26,6 @@
 	  collapsed:: true
 		- Younger sister of ((66e7108d-94b5-441e-b3b1-42d806010683))
 - # Famous Persons
-	- "Chairman Mao" — Mao Zedong (毛泽东)
-	  id:: 66e71a1a-8cdb-4f1e-b4d1-e3f2e32d1290
-		- https://en.wikipedia.org/wiki/Mao_Zedong
+	- [[Mao Zedong (毛泽东)]]
+	-
 -
