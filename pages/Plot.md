@@ -56,10 +56,11 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- her birchbark notebook
 						- pages full of abstract pictures; seemingly conveying frustration and anger
 					- this is where Yang committed suicide.
-				- Ye regrets having taught Yang
+				- Ye regrets having taught Yang nothing but abstract ideas; claiming that when that inner world crumbled, it led to Yang's
 					- Yang loved Bach.
 						- Said she could hear in the music an enormous building built by a giant.
-					- "A woman should be like water: about to flow around and through anything."
+					- "A woman should be like water: about to flow around and through anything." - [[Ye Wenjie (叶文洁)]]
+				-
 					-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
