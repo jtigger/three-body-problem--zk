@@ -2,5 +2,5 @@
 	- https://maps.app.goo.gl/eFicn5jD7CbBKRhs9
 - [[Khingan Mountains]]
 - [[Tsinghua University]]
-- [[Ürümqi]]
+- [[Xinjiang Astronomical Observatory]]
 -
