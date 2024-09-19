@@ -7,11 +7,10 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 				- feat. [[Red Union]] — student-led
 				- Based on Marxism
 					- Atheist
-				- [[Struggle Sessions]]
-					- https://en.wikipedia.org/wiki/Struggle_session
+			-
 				- "Reactionary"
 					- "Academic Authority"
-			- [[Ye Zhetai (叶哲泰)]] was tortured to death at a Struggle Session.
+			- [[Ye Zhetai (叶哲泰)]] was tortured to death at a [[Struggle Sessions]].
 			  id:: 66e7116b-2ad9-4186-b968-731c4cf09d1f
 				- wearing a heavier torture hat (metal rather than bamboo)
 				- being tortured for including ((66e714e5-5b41-4d09-9df8-98cdfc1c7e1c)) in his survey class.
