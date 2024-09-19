@@ -18,8 +18,7 @@
 	- [[Ye Zhetai (叶哲泰)]]
 	- [[Ye Wenjie (叶文洁)]]
 	  id:: 66e7108d-94b5-441e-b3b1-42d806010683
-	- Ye Wenxue (叶文雪)
-		- Younger sister of [[Ye Wenjie (叶文洁)]]
+	- [[Ye Wenxue (叶文雪)]]
 - # Famous Persons
 	- [[Mao Zedong (毛泽东)]]
 	-
