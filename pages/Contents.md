@@ -3,8 +3,8 @@
 - [[Characters]]
 - [[Groups]]
 - [[Locations]]
-- [[Scientific Concepts]]
 - [[Historical Events]]
+- [[Scientific Concepts]]
 - ---
 - # Learning Queries
 - #+BEGIN_QUERY
