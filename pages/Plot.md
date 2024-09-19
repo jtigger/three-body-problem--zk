@@ -4,8 +4,8 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 		- ### 1. The madness years
 			- China, [[Tsinghua University]] , 1967
 			- [[Great Proletarian Cultural Revolution]]
-				- [[Red Union]]
-				- vs. [[Chinese People's Liberation Army]]
+				- feat. [[Red Union]] — student-led
+				-
 				- Based on Marxism
 					- Atheist
 				- "Struggle Sessions"
