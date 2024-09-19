@@ -3,7 +3,7 @@
 - Based on Marxism
 	- Atheist
 - Propaganda
-	- "Reactionary" (adj.) — any idea that was anti-socialist
-	- "Academic Authority"
+	- "Reactionary" (adj.) — pejorative. any idea that was anti-socialist
+	- "Academic Authority" (n.) — pejorative. any person (usually a professor) who the
 - [[Chinese People's Liberation Army]]
 - https://en.wikipedia.org/wiki/Cultural_Revolution
