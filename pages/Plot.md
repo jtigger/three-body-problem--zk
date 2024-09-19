@@ -63,6 +63,9 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- "A woman should be like water: about to flow over and around anything." - [[Ye Wenjie (叶文洁)]]
 			- [[Wang Miao (汪淼)]] asks if [[Ye Wenjie (叶文洁)]] can help him observe cosmic microwave background
 				- She made a phone call to a former student of hers working at the
+					- Radio Astronomy Observatory
+					- In the suburb of Beijing
+					- Run by the Chinese Academy of Sciences
 					-
 				- She noted another research center — [[Xinjiang Astronomical Observatory]] — does ground observations
 					-
