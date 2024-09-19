@@ -66,6 +66,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- Radio Astronomy Observatory
 					- In the suburb of Beijing
 					- Run by the Chinese Academy of Sciences
+					- Peking University's Joint Center for Astrophysics
 					-
 				- She noted another research center — [[Xinjiang Astronomical Observatory]] — does ground observations
 					-
