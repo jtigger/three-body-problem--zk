@@ -1,9 +1,9 @@
 # Table of Contents
 - [[Plot]]
 - [[Characters]]
-- [[Groups]]
 - [[Locations]]
 - [[Historical Events]]
+- [[Groups]]
 - [[Scientific Concepts]]
 - ---
 - # Learning Queries
