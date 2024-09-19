@@ -56,6 +56,9 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- her birchbark notebook
 						- pages full of abstract pictures; seemingly conveying frustration and anger
 					- this is where Yang committed suicide.
+				- Ye regrets
+					- Yang loved Bach.
+						- Said she could see an enormous building built by a giant
 					-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
