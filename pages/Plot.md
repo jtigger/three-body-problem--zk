@@ -7,7 +7,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 				- feat. [[Red Union]] — student-led
 				- Based on Marxism
 					- Atheist
-				- "Struggle Sessions"
+				- [[Struggle Sessions]]
 					- https://en.wikipedia.org/wiki/Struggle_session
 				- "Reactionary"
 					- "Academic Authority"
