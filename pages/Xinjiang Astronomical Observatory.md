@@ -1,6 +1,8 @@
 -
 - https://en.wikipedia.org/wiki/Xinjiang_Astronomical_Observatory
 - Located in [Ürümqi](https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi)
+- https://geohack.toolforge.org/geohack.php?pagename=Xinjiang_Astronomical_Observatory&params=43.47_N_87.18_E_
+-
 - Ürümqi Astronomical Observatory before it was renamed in January 2011
 - Also known: XAO
 -
