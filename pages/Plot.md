@@ -22,13 +22,14 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 					- she saw her father tortured to death.
 					- she put his pipe in his cold hands
 						- a gift from [[Sha Ruishan (沙瑞山)]]
-			- [[Ye Wenjie (叶文洁)]] went to [[Sha Ruishan (沙瑞山)]]'s home
-			- [[Sha Ruishan (沙瑞山)]]'s has been suffering during the cultural revolution
+			- [[Ye Wenjie (叶文洁)]] went to [[Sha Ruishan (沙瑞山)]]'s home, discovering she had committed suicide
+			- [[Sha Ruishan (沙瑞山)]] has been suffering during the cultural revolution
 			  collapsed:: true
 				- the [[Red Union]] Guards ransacked her home
 					- and then cleaned up after themselves... sortof
 				- she committed suicide
 					- put on a little bit of lipstick and high heals
+					  collapsed:: true
 						- a protest to the communists
 					- took sleeping pills
 		- ### 2. The Silent Spring
