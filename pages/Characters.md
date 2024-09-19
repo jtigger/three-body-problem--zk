@@ -9,7 +9,7 @@
 	  id:: 66e71720-5d83-4eb4-a86f-366b049a1311
 	- [[Shao Lin (绍琳)]]
 	  id:: 66e71069-9de1-4291-a1c5-752e8f76abd5
-		- Wife of ((66e70d80-e1e0-418e-80f6-ed310c9b0bc5))
+		- Wife of  ((66e70d80-e1e0-418e-80f6-ed310c9b0bc5))
 	- [[Shen Yufei (申玉菲)]]
 	- [[Shi Qiang (史强)]]
 	- [[Wang Miao (汪淼)]]

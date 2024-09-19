@@ -13,7 +13,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 						- made way by the fact that Time begins at the Singularity
 					- he clarified (in so many words) that science is agnostic, neither deist nor atheist.
 				- The female [[Red Union]] guards beat him to death with belts.
-				- his wife, ((66e71069-9de1-4291-a1c5-752e8f76abd5)), testified against him
+				- his wife, [[Shao Lin (绍琳)]], testified against him
 				  collapsed:: true
 					- Zhetai pointed to Lin's pre-revolutionary prominent family putting her in danger in this revolution
 					- Zhetai argues that one's direct experience is the source of truth; the communists argued that Marxism was.
