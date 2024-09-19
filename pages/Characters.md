@@ -11,12 +11,10 @@
 	  id:: 66e71069-9de1-4291-a1c5-752e8f76abd5
 	  collapsed:: true
 		- Wife of ((66e70d80-e1e0-418e-80f6-ed310c9b0bc5))
-	- ## Shen Yufei (申玉菲)
-	- ## Shi Qiang (史强)
-	  collapsed:: true
-		- "Da Shi"
-	- ## Wang Miao (汪淼)
-	- ## Wei Cheng (魏成)
+	- [[Shen Yufei (申玉菲)]]
+	- [[Shi Qiang (史强)]]
+	- [[Wang Miao (汪淼)]]
+	- [[Wei Cheng (魏成)]]
 	- ## Yang Dong (杨冬)
 	- ## Yang Weining (杨卫宁)
 	- [[Ye Zhetai (叶哲泰)]]
