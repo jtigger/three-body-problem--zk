@@ -1,3 +1,5 @@
-- commonly, "
+- commonly, "Cultural Revolution"
+- Launched by [[Mao Zedong (毛泽东)]]
 - [[Chinese People's Liberation Army]]
+- https://en.wikipedia.org/wiki/Cultural_Revolution
 -

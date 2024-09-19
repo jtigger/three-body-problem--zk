@@ -5,7 +5,6 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 			- China, [[Tsinghua University]] , 1967
 			- [[Great Proletarian Cultural Revolution]]
 				- feat. [[Red Union]] — student-led
-				-
 				- Based on Marxism
 					- Atheist
 				- "Struggle Sessions"
