@@ -5,7 +5,7 @@
 	- ## Ding Yi (丁仪)
 	- ## Mike Evans (麦克·伊文斯)
 	- ## Pan Han (潘寒)
-	- ## Sha Ruishan (沙瑞山)
+	- ## [[Sha Ruishan (沙瑞山)]]
 	  id:: 66e71720-5d83-4eb4-a86f-366b049a1311
 	- ## Shao Lin (绍琳)
 	  id:: 66e71069-9de1-4291-a1c5-752e8f76abd5
