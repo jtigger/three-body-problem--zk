@@ -6,6 +6,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 			- beginning of the [[Great Proletarian Cultural Revolution]]
 			- [[Ye Zhetai (叶哲泰)]] was tortured to death at a [[Struggle Session]].
 			  id:: 66e7116b-2ad9-4186-b968-731c4cf09d1f
+			  collapsed:: true
 				- wearing a heavier-than-usual torture hat (metal rather than bamboo)
 				- being tortured for including [[Einstein's Theory of Relativity]] in his survey class.
 					- allegedly teaching the (potential) existence of God
@@ -23,6 +24,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 						- a gift from [[Sha Ruishan (沙瑞山)]]
 			- [[Ye Wenjie (叶文洁)]] went to [[Sha Ruishan (沙瑞山)]]'s home
 			- [[Sha Ruishan (沙瑞山)]]'s has been suffering during the cultural revolution
+			  collapsed:: true
 				- the [[Red Union]] Guards ransacked her home
 					- and then cleaned up after themselves... sortof
 				- she committed suicide
@@ -30,10 +32,10 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 						- a protest to the communists
 					- took sleeping pills
 		- ### 2. The Silent Spring
-		  collapsed:: true
 			- [[Khingan Mountains]] , 1969
 			-
 		- ### 3. (next chapter)
+		  collapsed:: true
 			-
 			-
 			-
