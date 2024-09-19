@@ -62,9 +62,9 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 						- Said she could hear in the music an enormous building built by a giant.
 					- "A woman should be like water: about to flow over and around anything." - [[Ye Wenjie (叶文洁)]]
 			- [[Wang Miao (汪淼)]] asks if [[Ye Wenjie (叶文洁)]] can help him observe cosmic microwave background
-			- [[Ye Wenjie (叶文洁)]]
-				-
+				- She said she knows a former student working at the [[Xinjiang Astronomical Observatory]]
 					-
+						-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
 		-
