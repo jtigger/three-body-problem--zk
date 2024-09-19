@@ -34,13 +34,10 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 		- ### 2. The Silent Spring
 			- [[Khingan Mountains]] , 1969
 			-
-		- ### 3. (next chapter)
-		  collapsed:: true
-			-
-			-
+		- ### 3. Red Coast 1
 			-
 	- ## Part 2: Three Body
 		- ### 4. The Frontiers of Science
-			- ~ Forty years later
+			- ~ 2010 (present day)
 		- ### 5.
 		-
