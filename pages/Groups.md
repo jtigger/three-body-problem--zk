@@ -1,4 +1,3 @@
--
 - [[April Twenty-eighth Brigade]]
   id:: 66e71949-ecc7-49ab-b796-86ff912ef26b
 	- Army corps of [[Chinese People's Liberation Army]]
