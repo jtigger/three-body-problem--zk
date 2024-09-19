@@ -45,17 +45,18 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 		- ### 7. Three Body: [[King Wen of Zhou]] and the Long Night
 		- ### 8. [[Ye Wenjie (叶文洁)]]
 			- [[Wang Miao (汪淼)]] gets out of the V-suit and drives to the address that [[Ding Yi (丁仪)]] gave him: the house of [[Yang Dong (杨冬)]]'s mother: [[Ye Wenjie (叶文洁)]].
-			- There were three of the neighbor's children playing at Ye's house.
-			- Ye establishes a warmth with Wang
-				- referring to him by a diminutive, almost immediately
-				- giving him ginseng as he left
-			- Wang visits Yang's room
-				- it was ordinary and non-descript; not feminine nor intellectual
-				- there was a picture of Yang and Ye
-				- her birchbark notebook
-					- pages full of abstract pictures; seemingly conveying frustration and anger
-				- this is where Yang comm
-				-
+				- There were three of the neighbor's children playing at Ye's house.
+				- Ye establishes a warmth with Wang
+					- referring to him by a diminutive, almost immediately
+					- they bonded a bit over their mutual loss of Yang.
+					- giving him ginseng as he left
+				- Wang visits Yang's room
+					- it was ordinary and non-descript; not feminine nor intellectual
+					- there was a picture of Yang and Ye
+					- her birchbark notebook
+						- pages full of abstract pictures; seemingly conveying frustration and anger
+					- this is where Yang committed suicide.
+					-
 		- ### 9. The Universe Flickers
 		- ### 10. Da Shi
 		-
