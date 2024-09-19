@@ -3,7 +3,7 @@ id:: 66e7277a-7623-4de9-90bf-2b2a704e788d
 	- ## Part 1: Silent Spring
 		- ### 1. The madness years
 			- China, [[Tsinghua University]] , 1967
-			- Great Proletarian Cultural Revolution
+			- [[Great Proletarian Cultural Revolution]]
 				- [[Red Union]] vs. [[Chinese People's Liberation Army]]
 				- Based on Marxism
 					- Atheist

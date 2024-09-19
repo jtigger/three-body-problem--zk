@@ -2,12 +2,11 @@
 - [[Plot]]
 - [[Characters]]
 - [[Groups]]
--
 - [[Locations]]
 - [[Scientific Concepts]]
 - [[Historical Events]]
 - ---
-- #
+- # Learning Queries
 - #+BEGIN_QUERY
   {
   :title [:b "Groups with links"]
