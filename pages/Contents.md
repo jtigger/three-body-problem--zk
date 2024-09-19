@@ -2,6 +2,12 @@
 - [[Plot]]
 - [[Characters]]
 - [[Groups]]
+-
+- [[Locations]]
+- [[Scientific Concepts]]
+- [[Historical Events]]
+- ---
+- #
 - #+BEGIN_QUERY
   {
   :title [:b "Groups with links"]
@@ -15,7 +21,6 @@
    )
   }
   #+END_QUERY
--
 - query-sort-by:: page
   query-sort-desc:: true
   query-properties:: [:page]
@@ -34,9 +39,7 @@
   :view :bullet
   }
   #+END_QUERY
-- [[Locations]]
-- [[Scientific Concepts]]
-- [[Historical Events]]
+-
 - # External References
 - https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 - https://www.gradesaver.com/the-three-body-problem
