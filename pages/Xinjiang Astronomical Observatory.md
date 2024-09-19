@@ -1,5 +1,7 @@
+-
 - https://en.wikipedia.org/wiki/Xinjiang_Astronomical_Observatory
 - Located in [Ürümqi](https://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi)
 - Ürümqi Astronomical Observatory before it was renamed in January 2011
+- Also known: XAO
 -
 -
